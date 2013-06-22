@@ -1,1 +1,1 @@
-assignment1: node assignment1.js
+assignment1: node `assignment1.js
