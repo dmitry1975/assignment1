@@ -1,1 +1,1 @@
-assignment1: node `assignment1.js
+web: node hello.js
